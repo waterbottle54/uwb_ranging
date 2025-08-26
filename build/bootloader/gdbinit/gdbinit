@@ -1,0 +1,2 @@
+source /home/sungwonjo/esp-projects/ranging/build/bootloader/gdbinit/symbols
+source /home/sungwonjo/esp-projects/ranging/build/bootloader/gdbinit/connect

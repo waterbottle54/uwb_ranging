@@ -1,0 +1,7 @@
+source "/home/sungwonjo/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/sungwonjo/esp/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "/home/sungwonjo/esp/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "/home/sungwonjo/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/sungwonjo/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/sungwonjo/esp-projects/ranging/components/dw3000-decadriver-source/platform/esp-idf/decadriver/Kconfig.projbuild"
+source "/home/sungwonjo/esp-projects/ranging/components/libdeca/Kconfig.projbuild"
